@@ -1,0 +1,6 @@
+{
+    "projects": [ "src", "test", "D:/Test/Git/AspNet5ModularApp/src" ],
+  "sdk": {
+    "version": "1.0.0-rc1-update1"
+  }
+}
